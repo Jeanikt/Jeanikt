@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  <a href="https://github.com/WaltRod">
+  <a href="https://github.com/Jeanikt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeanikt&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanikt&layout=compact&langs_count=7&theme=synthwave"/>
    <img align="center"  alt="poke" src="https://steamuserimages-a.akamaihd.net/ugc/1788515362277971665/E0883FDCC48C2784C3350053FF19C51A5DE0BE2C/">
