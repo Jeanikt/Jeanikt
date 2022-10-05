@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/Jeanikt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeanikt&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanikt&layout=compact&langs_count=7&theme=synthwave"/>
-   <img align="center"  alt="poke" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffictionalcrossover.fandom.com%2Fwiki%2FOne_Piece&psig=AOvVaw2OX3YTotMi81qXXN1GUBBc&ust=1665095629197000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMDv4OqSyvoCFQAAAAAdAAAAABAI">
 </div>
 <div align="center" style="display: inline_block"><br>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" height="60" style="vertical-align:top; margin:4px">
