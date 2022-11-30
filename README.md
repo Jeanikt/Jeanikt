@@ -3,7 +3,7 @@
   
  Ola, me chamo Jean Carlo Oliveira.
   
- Comecei na área de desenvolvimento e programação a alguns mêses via cursos da Udemy, pretendo me especializar na área o mais rapido possivel!
+ Comecei na área de desenvolvimento e programação a alguns mêses com a faculdade de ciência da computação e cursos da Udemy, pretendo me especializar na área o mais rapido possivel!
   Atualmente estou familiarizado com HTML5, CSS e JS. Pretendo continuar os estudos seguindo para Bootstrap e React.
 <!---
 Jeanikt/Jeanikt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
