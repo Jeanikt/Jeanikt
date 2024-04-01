@@ -1,10 +1,5 @@
 <details>
- <summary>Um pouco sobre mim!
-  
- Ola, me chamo Jean Carlo Ferreira.
-  
- Comecei na área de desenvolvimento e programação a alguns mêses com a faculdade de ciência da computação e cursos da Udemy, pretendo me especializar na área o mais rapido possivel!
-  Atualmente estou familiarizado com HTML5, CSS e JS, Bootstrap e React.
+ <summary>Hello World!
 <!---
 Jeanikt/Jeanikt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
