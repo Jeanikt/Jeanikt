@@ -18,7 +18,7 @@
     ├── /𝐁𝐈𝐎
     │    ├── ʙʀᴀᴢɪʟɪᴀɴ - (ᴘᴛ/ʙʀ + ᴇɴɢʟɪꜱʜ)
     │    ├── Computer scientist
-    │    └── Software Developer at Inovacomm
+    │    └── Software Engineer at Inovacomm
     │
     ├── /𝐎𝐒
     │    ├── /ʟɪɴᴜx 
