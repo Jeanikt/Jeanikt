@@ -6,7 +6,7 @@
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
         
-    _                        
+                            
          | |   ___    __ _   _ __  
       _  | |  / _ \  / _` | | '_ \ 
      | |_| | |  __/ | (_| | | | | |
