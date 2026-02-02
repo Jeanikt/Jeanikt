@@ -1,3 +1,9 @@
+# Current Projects
+
+- **BrotAI** - AI tools and services for developers [brotai.com.br](https://brotai.com.br)
+- **DokLife** - Digital life management platform [dok.life](https://dok.life)
+- **Fervo City** - Urban exploration and city guides [fervo.city](https://fervo.city)
+
 <table>
   <tr>
     <td style="width: 50%;">
@@ -5,14 +11,6 @@
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
-        
-                            
-         | |   ___    __ _   _ __  
-      _  | |  / _ \  / _` | | '_ \ 
-     | |_| | |  __/ | (_| | | | | |
-      \___/   \___|  \__,_| |_| |_|
-</p>
-
     /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
     │
     ├── /𝐁𝐈𝐎
@@ -23,7 +21,7 @@
     ├── /𝐎𝐒
     │    ├── /ʟɪɴᴜx 
     │    │   └── ᴜʙᴜɴᴛᴜ_ᴠ𝟤𝟦.𝟢𝟦-ʟᴛꜱ
-    │    │   └── ᴅᴇʙɪᴀɴ_𝟣𝟣.𝟢𝟯-ʟᴛꜱ
+    │    │   └── ᴅᴇʙɪᴀɴ_𝟣𝟣.𝟢𝟥-ʟᴛꜱ
     │    └── /ᴡɪɴᴅᴏᴡꜱ
     │        └── /Wᴡɪɴᴅᴏᴡꜱ_𝟣𝟣(ᴍᴀɪɴ)
     │            └── ᴡꜱʟ-ᴜʙᴜɴᴛᴜ_ᴠ𝟣𝟪.𝟢𝟥-ʟᴛꜱ
@@ -41,7 +39,7 @@
     │
     └── /𝐈𝐃𝐄𝐬
         ├── ᴠꜱᴄᴏᴅᴇ
-        
+      </p>
   </tr>
 </table>
 
@@ -51,10 +49,3 @@
   <img src="https://leetcard.jacoblin.cool/Jeanikt?theme=nord&font=JetBrains%20Mono" height="163," alt="LeetCode Stats" /> <img src="https://github-readme-stats.vercel.app/api?username=Jeanikt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="163" alt="stats graph"  />
 <br>
 </details>
-
-
-
-
-
-                                                                                                          
-                                                                                                          
