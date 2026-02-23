@@ -3,7 +3,7 @@
 - **BrotAI** - Organize suas resenhas com facilidade. Crie eventos, receba pagamentos via Pix e gerencie sua lista de convidados em um só lugar. [brotai.com.br](https://brotai.com.br)
 - **DokLife** - Acesso inteligente à sua vida acadêmica. Sincronize suas faltas em tempo real com uma conexão criptografada. [dok.life](https://dok.life)
 - **Fervo City** - Urban exploration and city guides. [fervo.city](https://fervo.city)
-
+- **HUB Expresso** - Valorant Players Hub – Competitive Matchmaking & Organized Matches. [HUB Expresso](https://hubexpresso.com)
 ---
 
 ## Jean Oliveira (@Jeanikt)
