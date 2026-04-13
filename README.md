@@ -7,7 +7,7 @@
 ---
 
 ## Jean Oliveira (@Jeanikt)
-**Software Engineer at Inovacomm**  
+**Software Engineer at Macro**  
 📍 Rio de Janeiro, Brazil  
 🌐 [jeazzy.vercel.app](https://jeazzy.vercel.app)  
 📧 [in/jeanfoliveira](https://linkedin.com/in/jeanfoliveira)  
