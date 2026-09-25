@@ -2,7 +2,7 @@
 
 Full Stack Developer in Rio de Janeiro, Brazil, with 3+ years building APIs, integrations and apps end to end — from .NET backends to React Native apps in the stores.
 
-Currently at **Macro Digital Sales**, building checkout and CRM integrations for telecom carriers, and founder of **JZY**, the studio behind DOK.life.
+Founder of **JZY**, an independent product studio — the company behind DOK.life. Previously built checkout and CRM integrations for telecom carriers at Macro Digital Sales and .NET APIs, VoIP and CI/CD at InovaComm.
 
 ### What I'm building
 
