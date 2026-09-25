@@ -7,8 +7,7 @@ Currently at **Macro Digital Sales**, building checkout and CRM integrations for
 ### What I'm building
 
 - **[DOK.life](https://dok.life)** — app for university students: absence tracking per class, assignment deadlines and ABNT formatting. Expo + .NET + Supabase.
-- **[Fervo City](https://fervo.city)** — urban exploration and city guides.
-- **BrotAI** — events with Pix payments and guest lists.
+- **[Manu](https://github.com/Jeanikt/tutor-ai-agent)** — open-source voice AI math tutor in Brazilian Portuguese that adapts from 1st grade to university. TypeScript + LiveKit Agents.
 - **HUB Expresso** — Valorant players hub with competitive matchmaking.
 
 ### Stack
