@@ -13,10 +13,10 @@ Currently at **Macro Digital Sales**, building checkout and CRM integrations for
 
 ### Stack
 
-**Backend:** C#, .NET / ASP.NET Core, Node.js, Fastify, PHP / Laravel
-**Frontend & mobile:** TypeScript, React, Next.js, Vue / Nuxt, React Native / Expo
-**Data & infra:** PostgreSQL, SQL Server, Supabase, Docker, AWS, GitHub Actions
-**Integrations:** REST APIs, webhooks, WebSockets, VoIP / WebRTC, Zoho CRM
+- **Backend:** C#, .NET / ASP.NET Core, Node.js, Fastify, PHP / Laravel
+- **Frontend & mobile:** TypeScript, React, Next.js, Vue / Nuxt, React Native / Expo
+- **Data & infra:** PostgreSQL, SQL Server, Supabase, Docker, AWS, GitHub Actions
+- **Integrations:** REST APIs, webhooks, WebSockets, VoIP / WebRTC, Zoho CRM
 
 ### Links
 
