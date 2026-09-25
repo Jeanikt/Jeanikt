@@ -1,29 +1,23 @@
-# Current Projects
+## Hi, I'm Jean 👋
 
-- **BrotAI** - Organize suas resenhas com facilidade. Crie eventos, receba pagamentos via Pix e gerencie sua lista de convidados em um só lugar. [brotai.com.br](https://brotai.com.br)
-- **DokLife** - Acesso inteligente à sua vida acadêmica. Sincronize suas faltas em tempo real com uma conexão criptografada. [dok.life](https://dok.life)
-- **Fervo City** - Urban exploration and city guides. [fervo.city](https://fervo.city)
-- **HUB Expresso** - Valorant Players Hub – Competitive Matchmaking & Organized Matches. [HUB Expresso](https://hubexpresso.com)
----
+Full Stack Developer in Rio de Janeiro, Brazil, with 3+ years building APIs, integrations and apps end to end — from .NET backends to React Native apps in the stores.
 
-## Jean Oliveira (@Jeanikt)
-**Software Engineer at Macro**  
-📍 Rio de Janeiro, Brazil  
-🌐 [jeazzy.vercel.app](https://jeazzy.vercel.app)  
-📧 [in/jeanfoliveira](https://linkedin.com/in/jeanfoliveira)  
-🐙 [github.com/Jeanikt](https://github.com/Jeanikt)
+Currently at **Macro Digital Sales**, building checkout and CRM integrations for telecom carriers.
 
----
+### What I'm building
 
-### 🛠 Tech Stack
-```
-Languages: PHP, JavaScript, TypeScript, C#
-Frameworks: Laravel, React, Next.js, React Native, .NET
-OS: Ubuntu 24.04 LTS, Debian 11.03 LTS, Windows 11 + WSL2
-IDE: VS Code
-```
+- **[DOK.life](https://dok.life)** — app for university students: absence tracking per class, assignment deadlines and ABNT formatting. Expo + .NET + Supabase.
+- **[Fervo City](https://fervo.city)** — urban exploration and city guides.
+- **BrotAI** — events with Pix payments and guest lists.
+- **HUB Expresso** — Valorant players hub with competitive matchmaking.
 
-**✉️ Contact:** [jeanikkt@gmail.com](mailto:?) | **📢 Follow:** [@Jeanikt](https://github.com/Jeanikt)
+### Stack
 
----
+**Backend:** C#, .NET / ASP.NET Core, Node.js, Fastify, PHP / Laravel
+**Frontend & mobile:** TypeScript, React, Next.js, Vue / Nuxt, React Native / Expo
+**Data & infra:** PostgreSQL, SQL Server, Supabase, Docker, AWS, GitHub Actions
+**Integrations:** REST APIs, webhooks, WebSockets, VoIP / WebRTC, Zoho CRM
 
+### Links
+
+[LinkedIn](https://linkedin.com/in/jeanfoliveira) · [Website](https://jeazy.vercel.app)
